@@ -1,4 +1,4 @@
-# Multi-Threaded PAC-MAN in GLUT with Synchronization
+# Multi-Threaded PACMAN in GLUT with Synchronization
 
 Welcome to Multi-Threaded PAC-MAN in GLUT with Synchronization! This project aims to develop a multi-threaded version of the classic Pac-Man game using C/C++ and GLUT (OpenGL Utility Toolkit) graphics library, incorporating synchronization techniques to manage interactions between Pac-Man and multiple computer-simulated ghosts. The game ensures smooth gameplay with each entity operating on its own thread and proper synchronization to prevent data conflicts.
 
